@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 172976 Term Shee Term Sheet Contract Type" max_length="40" name="u_imp_tmpl_x_172976_term_shee_term_sheet_contract_type" type="collection">
+        <element attributes="import_attribute_name=Title,edge_encryption_enabled=true" label="Title" max_length="40" name="u_title" type="string"/>
+        <element attributes="import_attribute_name=Value,edge_encryption_enabled=true" label="Value" max_length="40" name="u_value" type="string"/>
+    </element>
+</database>

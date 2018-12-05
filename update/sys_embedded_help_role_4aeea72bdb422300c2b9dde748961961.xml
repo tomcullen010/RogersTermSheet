@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_172976_term_shee.user" name="x_172976_term_shee.user">0aeee323db022300c2b9dde748961965</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-04 19:04:17</sys_created_on>
+        <sys_id>4aeea72bdb422300c2b9dde748961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0aeee323db022300c2b9dde748961965</sys_name>
+        <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4aeea72bdb422300c2b9dde748961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-04 19:04:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

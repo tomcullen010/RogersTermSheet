@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Approvals lookup" max_length="40" name="x_172976_term_shee_approvals_lookup" type="collection">
+        <element default="0" label="Amount high" max_length="20" name="amount_high" type="currency"/>
+        <element default="0" label="Amount low" max_length="20" name="amount_low" type="currency"/>
+        <element default="0" label="Approval level" max_length="40" name="approval_level" type="integer"/>
+        <element default="0" label="Finance role title" max_length="40" name="finance_role_title" type="integer"/>
+        <element default="0" label="Functional role title" max_length="40" name="functional_role_title" type="integer"/>
+        <element default="0" label="Legal Role Title" max_length="40" name="legal_role_title" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="0" label="Procurement role title" max_length="40" name="procurement_role_title" type="integer"/>
+    </element>
+</database>

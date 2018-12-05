@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="full_name" label="Full name" language="en" table="x_172976_term_shee_m2m_procurement_procurement">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>full_name</element>
+            <help/>
+            <hint/>
+            <label>Full name</label>
+            <language>en</language>
+            <name>x_172976_term_shee_m2m_procurement_procurement</name>
+            <plural>Full names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-04 22:20:16</sys_created_on>
+            <sys_id>85cbdc7bdbc22300c2b9dde74896190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Full name</sys_name>
+            <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_term_shee_m2m_procurement_procurement_full_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-04 22:20:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

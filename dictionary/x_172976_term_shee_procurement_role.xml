@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Procurement role" max_length="40" name="x_172976_term_shee_procurement_role" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Role title" max_length="40" name="role_title" type="string"/>
+    </element>
+</database>

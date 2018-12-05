@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 172976 Term Shee Approvals Lookup" max_length="40" name="u_imp_tmpl_x_172976_term_shee_approvals_lookup" type="collection">
+        <element attributes="import_attribute_name=Amount high,edge_encryption_enabled=true" label="Amount high" max_length="20" name="u_amount_high" type="string"/>
+        <element attributes="import_attribute_name=Amount low,edge_encryption_enabled=true" label="Amount low" max_length="20" name="u_amount_low" type="string"/>
+        <element attributes="import_attribute_name=Approval level" label="Approval level" max_length="40" name="u_approval_level" type="integer"/>
+        <element attributes="import_attribute_name=Finance role title" label="Finance role title" max_length="40" name="u_finance_role_title" type="integer"/>
+        <element attributes="import_attribute_name=Functional role title" label="Functional role title" max_length="40" name="u_functional_role_title" type="integer"/>
+        <element attributes="import_attribute_name=Legal Role Title" label="Legal Role Title" max_length="40" name="u_legal_role_title" type="integer"/>
+        <element attributes="import_attribute_name=Number,edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Procurement role title" label="Procurement role title" max_length="40" name="u_procurement_role_title" type="integer"/>
+    </element>
+</database>

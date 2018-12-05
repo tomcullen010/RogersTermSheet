@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Procurement user type" max_length="40" name="x_172976_term_shee_procurement_user_type" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="User type" max_length="40" name="user_type" type="integer"/>
+    </element>
+</database>
