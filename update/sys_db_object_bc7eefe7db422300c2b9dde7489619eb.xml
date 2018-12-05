@@ -14,7 +14,7 @@
         <label>Procurment request</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_172976_term_shee_procurment_request</name>
-        <number_ref display_value="PREQ">414fa72bdb422300c2b9dde7489619be</number_ref>
+        <number_ref display_value="TS">414fa72bdb422300c2b9dde7489619be</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Task" name="task">32b2bf6581131300aadba4a47c598e1b</super_class>

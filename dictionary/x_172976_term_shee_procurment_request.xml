@@ -1,3 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Procurment request" max_length="40" name="x_172976_term_shee_procurment_request" type="collection"/>
+    <element extends="task" label="Procurment request" max_length="40" name="x_172976_term_shee_procurment_request" type="collection">
+        <element label="Acceptance" max_length="40" name="acceptance" type="boolean"/>
+        <element label="Additional funding details" max_length="1000" name="additional_funding_details" type="string"/>
+        <element label="Amend existing Contract" max_length="40" name="amend_existing_contract" type="boolean"/>
+        <element label="Auto renewal" max_length="40" name="auto_renewal" type="boolean"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Category 1" value="category_1"/>
+                <element inactive_on_update="false" label="Category 2" value="category_2"/>
+                <element inactive_on_update="false" label="Category 3" value="category_3"/>
+            </choice>
+        </element>
+        <element label="CA hyperlink" max_length="1024" name="ca_hyperlink" type="url"/>
+        <element label="CA number" max_length="40" name="ca_number" type="string"/>
+        <element label="CA Program" max_length="1000" name="ca_program" type="string"/>
+        <element label="CA status" max_length="40" name="ca_status" type="string"/>
+        <element label="Committed Spend" max_length="4000" name="committed_spend" type="simple_name_values"/>
+        <element label="Contract amount over term" max_length="4000" name="contract_amount_over_term" type="simple_name_values"/>
+        <element label="Contract effective date" max_length="40" name="contract_effective_date" type="glide_date"/>
+        <element label="Contract expiration date" max_length="40" name="contract_expiration_date" type="glide_date"/>
+        <element label="Contract Number" max_length="40" name="contract_number" type="string"/>
+        <element label="Contract terms in months" max_length="40" name="contract_terms_in_months" type="integer"/>
+        <element choice="1" label="Currency" max_length="40" name="currency" type="choice">
+            <choice/>
+        </element>
+        <element label="Description of spend calculation" max_length="8000" name="description_of_spend_calculation" type="html"/>
+        <element label="Exclusivity" max_length="40" name="exclusivity" type="boolean"/>
+        <element label="Existing PIF Initiative?" max_length="40" name="existing_pif_initiative" type="boolean"/>
+        <element label="Extension Limit" max_length="40" name="extension_limit" type="boolean"/>
+        <element label="Funding SCOA" max_length="4000" name="funding_scoa" type="simple_name_values"/>
+        <element label="Governing Law" max_length="40" name="governing_law" type="boolean"/>
+        <element label="Initial Requestor" max_length="32" name="initial_requestor" reference="sys_user" type="reference"/>
+        <element label="IP" max_length="40" name="ip" type="boolean"/>
+        <element label="LOL &amp; Indemnities" max_length="40" name="lol_indemnities" type="boolean"/>
+        <element label="Material change risks and benefits" max_length="8000" name="material_change_risks_and_benefits" type="html"/>
+        <element label="Multiple Suppliers Term Sheet" max_length="40" name="multiple_suppliers_term_sheet" type="boolean"/>
+        <element label="Not applicable" max_length="40" name="not_applicable" type="boolean"/>
+        <element label="Originators name" max_length="40" name="originators_name" type="string"/>
+        <element label="Other" max_length="40" name="other" type="boolean"/>
+        <element label="Payment regime" max_length="40" name="payment_regime" type="boolean"/>
+        <element choice="1" label="Payment terms" max_length="40" name="payment_terms" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="PIA - Payment in advance" sequence="1" value="PIA"/>
+                <element inactive_on_update="false" label="Net 7 - Payment seven days after invoice date." sequence="2" value="Net_7"/>
+                <element inactive_on_update="false" label="Net 30 - Payment thirty days after invoice date." sequence="3" value="Net_30"/>
+                <element inactive_on_update="false" label="Net 90 - Payment ninety days after invoice date." sequence="4" value="Net_90"/>
+                <element inactive_on_update="false" label="EOM - End of month" sequence="5" value="EOM"/>
+            </choice>
+        </element>
+        <element label="PCI Compliance" max_length="40" name="pci_compliance" type="boolean"/>
+        <element label="Product and service description" max_length="8000" name="product_and_service_description" type="html"/>
+        <element label="Related parties relationship" max_length="40" name="related_parties_relationship" type="boolean"/>
+        <element label="Renewal options and termination rights" max_length="8000" name="renewal_options_and_termination_rights" type="html"/>
+        <element label="Replace existing contract" max_length="40" name="replace_existing_contract" type="boolean"/>
+        <element label="Representations &amp; Warranties" max_length="40" name="representations_warranties" type="boolean"/>
+        <element label="Request date" max_length="40" name="request_date" type="glide_date"/>
+        <element label="Rogers sub-company" max_length="32" name="rogers_sub_company" reference="core_company" type="reference"/>
+        <element label="Security / Confidentiality" max_length="40" name="security_confidentiality" type="boolean"/>
+        <element choice="1" dependent="type_of_contract_1" dependent_on_field="type_of_contract_1" label="Subtype of Contract 2" max_length="40" name="subtype_of_contract_2" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="type1" inactive_on_update="false" label="Subtype Choice 1 for  Type1" value="type1_type1"/>
+                <element dependent_value="type2" inactive_on_update="false" label="Subtype Choice 1 for  Type2" value="type2_type1"/>
+                <element dependent_value="type3" inactive_on_update="false" label="Subtype Choice 1 for  Type3" value="type3_type1"/>
+                <element dependent_value="type1" inactive_on_update="false" label="Subtype Choice 2 for  Type1" value="type1_type2"/>
+                <element dependent_value="type2" inactive_on_update="false" label="Subtype Choice 2 for  Type2" value="type2_type2"/>
+                <element dependent_value="type3" inactive_on_update="false" label="Subtype Choice 2 for  Type3" value="type3_type2"/>
+                <element dependent_value="type1" inactive_on_update="false" label="Subtype Choice 3 for  Type1" value="type1_type3"/>
+                <element dependent_value="type3" inactive_on_update="false" label="Subtype Choice 3 for  Type3" value="type3_type3"/>
+                <element dependent_value="type3" inactive_on_update="false" label="Subtype Choice 4 for  Type3" value="type3_type4"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="subtype_of_contract_2" dependent_on_field="subtype_of_contract_2" label="Subtype of Contract 3" max_length="40" name="subtype_of_contract_3" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="type1_type1" inactive_on_update="false" label="SubType Choice 1 for Type1-subtype1" value="type1_type1_type1"/>
+                <element dependent_value="type1_type1" inactive_on_update="false" label="SubType Choice 2 for Type1-subtype1" value="type1_type1_type2"/>
+                <element dependent_value="type1_type1" inactive_on_update="false" label="SubType Choice 3 for Type1-subtype1" value="type1_type1_type3"/>
+            </choice>
+        </element>
+        <element label="Sub-company department" max_length="40" name="sub_company_department" type="string"/>
+        <element label="Successors" max_length="40" name="successors" type="boolean"/>
+        <element label="Supplier name" max_length="32" name="supplier_name" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Term Sheet Title" max_length="1000" name="term_sheet_title" type="string"/>
+        <element label="Term &amp; Termination" max_length="40" name="term_termination" type="boolean"/>
+        <element label="Total committed spend" max_length="20" name="total_committed_spend" type="currency"/>
+        <element label="Total contract amount" max_length="20" name="total_contract_amount" type="currency"/>
+        <element choice="3" label="Type of Contract 1" max_length="40" name="type_of_contract_1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Contract type 1" value="type1"/>
+                <element inactive_on_update="false" label="Contract type 2" value="type2"/>
+                <element inactive_on_update="false" label="Contract type 3" value="type3"/>
+            </choice>
+        </element>
+    </element>
 </database>

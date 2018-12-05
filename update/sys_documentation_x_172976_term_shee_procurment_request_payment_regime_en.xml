@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="payment_regime" label="Payment regime" language="en" table="x_172976_term_shee_procurment_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>payment_regime</element>
+            <help/>
+            <hint/>
+            <label>Payment regime</label>
+            <language>en</language>
+            <name>x_172976_term_shee_procurment_request</name>
+            <plural>Payment regimes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 18:52:51</sys_created_on>
+            <sys_id>e8e57440db162300c2b9dde7489619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Payment regime</sys_name>
+            <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_term_shee_procurment_request_payment_regime_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 18:52:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

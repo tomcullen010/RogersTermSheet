@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d4400848db522300c2b9dde748961999" sys_domain="global" table="x_172976_term_shee_procurment_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 14:58:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc400848db522300c2b9dde74896199b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_term_shee_procurment_request" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4400848db522300c2b9dde748961999</sys_ui_form>
+            <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 19:08:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 16:29:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3055848db922300c2b9dde7489619a9</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_term_shee_procurment_request" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4400848db522300c2b9dde748961999</sys_ui_form>
+            <sys_ui_section caption="SUPPLIERS INFORMATION" display_value="SUPPLIERS INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d7055848db922300c2b9dde7489619a7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 19:08:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 17:30:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3303e4c0dbd22300c2b9dde7489619c6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_term_shee_procurment_request" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4400848db522300c2b9dde748961999</sys_ui_form>
+            <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 19:08:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 17:30:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f03e4c0dbd22300c2b9dde7489619c9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_term_shee_procurment_request" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4400848db522300c2b9dde748961999</sys_ui_form>
+            <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 19:08:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 18:47:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ca4b400db162300c2b9dde7489619fd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_term_shee_procurment_request" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4400848db522300c2b9dde748961999</sys_ui_form>
+            <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 19:08:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_172976_term_shee_procurment_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 14:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4400848db522300c2b9dde748961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_172976_term_shee_procurment_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d4400848db522300c2b9dde748961999</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 14:58:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="subtype_of_contract_3" label="Subtype of Contract 3" language="en" table="x_172976_term_shee_procurment_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>subtype_of_contract_3</element>
+            <help/>
+            <hint/>
+            <label>Subtype of Contract 3</label>
+            <language>en</language>
+            <name>x_172976_term_shee_procurment_request</name>
+            <plural>Subtype of Contract 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 17:20:57</sys_created_on>
+            <sys_id>1ad0ec40dbd22300c2b9dde7489619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Subtype of Contract 3</sys_name>
+            <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_term_shee_procurment_request_subtype_of_contract_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 17:20:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
