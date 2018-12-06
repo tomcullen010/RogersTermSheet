@@ -4,17 +4,14 @@
         <element label="Additional funding details" max_length="1000" name="additional_funding_details" type="string"/>
         <element label="Amend existing Contract" max_length="40" name="amend_existing_contract" type="boolean"/>
         <element label="Auto renewal" max_length="40" name="auto_renewal" type="boolean"/>
-        <element choice="1" label="Category" max_length="40" name="category" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Category 1" value="category_1"/>
-                <element inactive_on_update="false" label="Category 2" value="category_2"/>
-                <element inactive_on_update="false" label="Category 3" value="category_3"/>
-            </choice>
+        <element choice="1" label="Category" max_length="40" name="category" reference="x_172976_term_shee_term_sheet_category" type="reference">
+            <choice/>
         </element>
         <element label="CA hyperlink" max_length="1024" name="ca_hyperlink" type="url"/>
         <element label="CA number" max_length="40" name="ca_number" type="string"/>
         <element label="CA Program" max_length="1000" name="ca_program" type="string"/>
         <element label="CA status" max_length="40" name="ca_status" type="string"/>
+        <element label="CEO and CFO approval" max_length="40" name="ceo_and_cfo_approval" type="boolean"/>
         <element label="Committed Spend" max_length="4000" name="committed_spend" type="simple_name_values"/>
         <element label="Contract amount over term" max_length="4000" name="contract_amount_over_term" type="simple_name_values"/>
         <element label="Contract effective date" max_length="40" name="contract_effective_date" type="glide_date"/>
@@ -28,10 +25,16 @@
         <element label="Exclusivity" max_length="40" name="exclusivity" type="boolean"/>
         <element label="Existing PIF Initiative?" max_length="40" name="existing_pif_initiative" type="boolean"/>
         <element label="Extension Limit" max_length="40" name="extension_limit" type="boolean"/>
+        <element label="Finance approval is required" max_length="40" name="finance_approval_required" type="boolean"/>
+        <element label="Finance approver" max_length="32" name="finance_approver" reference="sys_user" type="reference"/>
+        <element label="Functional (Sponsor of Contract) approval is required" max_length="40" name="functional_approval_required" type="boolean"/>
+        <element label="Functional approver" max_length="32" name="functional_approver" reference="sys_user" type="reference"/>
         <element label="Funding SCOA" max_length="4000" name="funding_scoa" type="simple_name_values"/>
         <element label="Governing Law" max_length="40" name="governing_law" type="boolean"/>
-        <element label="Initial Requestor" max_length="32" name="initial_requestor" reference="sys_user" type="reference"/>
+        <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Initial Requestor" max_length="32" name="initial_requestor" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element label="IP" max_length="40" name="ip" type="boolean"/>
+        <element label="Legal Representative is required" max_length="40" name="legal_approval_requried" type="boolean"/>
+        <element label="Legal approver" max_length="32" name="legal_approver" reference="sys_user" type="reference"/>
         <element label="LOL &amp; Indemnities" max_length="40" name="lol_indemnities" type="boolean"/>
         <element label="Material change risks and benefits" max_length="8000" name="material_change_risks_and_benefits" type="html"/>
         <element label="Multiple Suppliers Term Sheet" max_length="40" name="multiple_suppliers_term_sheet" type="boolean"/>
@@ -49,6 +52,7 @@
             </choice>
         </element>
         <element label="PCI Compliance" max_length="40" name="pci_compliance" type="boolean"/>
+        <element label="Procurement approver" max_length="32" name="procurement_approver" reference="sys_user" type="reference"/>
         <element label="Product and service description" max_length="8000" name="product_and_service_description" type="html"/>
         <element label="Related parties relationship" max_length="40" name="related_parties_relationship" type="boolean"/>
         <element label="Renewal options and termination rights" max_length="8000" name="renewal_options_and_termination_rights" type="html"/>
@@ -57,6 +61,8 @@
         <element label="Request date" max_length="40" name="request_date" type="glide_date"/>
         <element label="Rogers sub-company" max_length="32" name="rogers_sub_company" reference="core_company" type="reference"/>
         <element label="Security / Confidentiality" max_length="40" name="security_confidentiality" type="boolean"/>
+        <element label="Source Strat Desc" max_length="8000" name="source_strat_desc" type="html"/>
+        <element label="Sourcing strategy" max_length="40" name="sourcing_strategy" type="boolean"/>
         <element choice="1" dependent="type_of_contract_1" dependent_on_field="type_of_contract_1" label="Subtype of Contract 2" max_length="40" name="subtype_of_contract_2" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="type1" inactive_on_update="false" label="Subtype Choice 1 for  Type1" value="type1_type1"/>
@@ -80,7 +86,7 @@
         <element label="Sub-company department" max_length="40" name="sub_company_department" type="string"/>
         <element label="Successors" max_length="40" name="successors" type="boolean"/>
         <element label="Supplier name" max_length="32" name="supplier_name" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
-        <element label="Term Sheet Title" max_length="1000" name="term_sheet_title" type="string"/>
+        <element default="ROGERS PARTY/ENTITY NAME - TITLE OF AGREEMENT - DATE OF AGREEMENT" label="Term Sheet Title" max_length="1000" name="term_sheet_title" type="string"/>
         <element label="Term &amp; Termination" max_length="40" name="term_termination" type="boolean"/>
         <element label="Total committed spend" max_length="20" name="total_committed_spend" type="currency"/>
         <element label="Total contract amount" max_length="20" name="total_contract_amount" type="currency"/>

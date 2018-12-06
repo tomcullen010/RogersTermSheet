@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ceo_and_cfo_approval" label="CEO and CFO approval" language="en" table="x_172976_term_shee_procurment_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ceo_and_cfo_approval</element>
+            <help/>
+            <hint/>
+            <label>CEO and CFO approval</label>
+            <language>en</language>
+            <name>x_172976_term_shee_procurment_request</name>
+            <plural>CEO and CFO approvals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-06 14:39:02</sys_created_on>
+            <sys_id>18654950dbde2300c2b9dde7489619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CEO and CFO approval</sys_name>
+            <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_term_shee_procurment_request_ceo_and_cfo_approval_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-06 14:39:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

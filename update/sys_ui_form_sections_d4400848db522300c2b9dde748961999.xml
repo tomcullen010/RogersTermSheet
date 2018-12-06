@@ -70,6 +70,34 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-05 19:08:12</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 19:17:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f79b3c44db162300c2b9dde748961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_term_shee_procurment_request" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4400848db522300c2b9dde748961999</sys_ui_form>
+            <sys_ui_section caption="SOURCING STRATEGY" display_value="SOURCING STRATEGY" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3f9b3c44db162300c2b9dde748961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 19:17:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-05 19:49:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73b201c8db162300c2b9dde74896197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_term_shee_procurment_request" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4400848db522300c2b9dde748961999</sys_ui_form>
+            <sys_ui_section caption="APPROVERS SECTION" display_value="APPROVERS SECTION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">73b201c8db162300c2b9dde74896197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-05 19:49:03</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_172976_term_shee_procurment_request</name>
             <roles/>

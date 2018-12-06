@@ -3,11 +3,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>7d997004db162300c2b9dde7489619fe</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>2f61499cdb9e2300c2b9dde74896192e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <text>Short Description of Product(s) and/or Service(s)</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -15,13 +15,13 @@
             <element>type_of_contract_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>31997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>ef61499cdb9e2300c2b9dde74896192e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -29,13 +29,13 @@
             <element>subtype_of_contract_2</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>b1997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>6361499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -43,13 +43,13 @@
             <element>subtype_of_contract_3</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>35997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>e361499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -57,13 +57,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>b5997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>6761499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -71,13 +71,13 @@
             <element>amend_existing_contract</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>39997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>e761499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -85,13 +85,13 @@
             <element>replace_existing_contract</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>b9997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>6b61499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -99,13 +99,13 @@
             <element>existing_pif_initiative</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>3d997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>eb61499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -113,27 +113,27 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>bd997004db162300c2b9dde7489619ff</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>6f61499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>7d997004db162300c2b9dde7489619fe</element>
+            <element>2f61499cdb9e2300c2b9dde74896192e</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>3199b004db162300c2b9dde748961900</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>ef61499cdb9e2300c2b9dde74896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -141,13 +141,13 @@
             <element>product_and_service_description</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-05 19:09:02</sys_created_on>
-            <sys_id>b199b004db162300c2b9dde748961900</sys_id>
+            <sys_created_on>2018-12-06 14:21:46</sys_created_on>
+            <sys_id>6361499cdb9e2300c2b9dde748961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="CONTRACT OVERVIEW" display_value="CONTRACT OVERVIEW" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">bb03e4c0dbd22300c2b9dde7489619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-05 19:09:02</sys_updated_on>
+            <sys_updated_on>2018-12-06 14:21:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
