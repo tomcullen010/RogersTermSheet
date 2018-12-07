@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>false</active>
+        <api_name>x_172976_term_shee.ApproverSelections</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ApproverSelections</name>
+        <script><![CDATA[var ApproverSelections = Class.create();
+ApproverSelections.prototype = {
+	initialize: function() {
+	},
+	
+	ProcurementSelections:function() {
+		var aprvs = ' ';
+		var ut = current.procurement_usertypetest;
+		var queryString = "procurement_role=0b7ec0ffdb822300c2b9dde74896191c^procurement_user_type=" + ut;
+		var count = 0;
+		
+		var gr = new GlideRecord("x_172976_term_shee_m2m_procurement_procurement");
+		gr.addEncodedQuery(queryString);
+		gr.query();
+		while (gr.next()) {
+			count++;
+			if (count > 1) {
+				//build comma separated string of approvers if more than 1
+				aprvs += (',' + gr.full_name);
+			} 
+			else {
+				aprvs = gr.full_name;
+			}
+			
+			//return Approvers.  Use IN for lists
+			return  aprvs;
+		}
+		
+	},
+	
+	type: 'ApproverSelections'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-07 12:50:56</sys_created_on>
+        <sys_id>e4017564db522300c2b9dde7489619d1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>ApproverSelections</sys_name>
+        <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+        <sys_update_name>sys_script_include_e4017564db522300c2b9dde7489619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-07 13:27:43</sys_updated_on>
+    </sys_script_include>
+</record_update>
