@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Procurment request" max_length="40" name="x_172976_term_shee_procurment_request" sizeclass="2" type="collection">
+    <element audit="true" extends="task" label="Procurment request" max_length="40" name="x_172976_term_shee_procurment_request" sizeclass="3" type="collection">
         <element label="Acceptance" max_length="40" name="acceptance" type="boolean"/>
         <element label="Additional funding details" max_length="1000" name="additional_funding_details" type="string"/>
         <element label="Amend existing Contract" max_length="40" name="amend_existing_contract" type="boolean"/>
+        <element default="0" label="Approval level" max_length="40" name="approval_level" read_only="true" type="integer"/>
         <element label="Auto renewal" max_length="40" name="auto_renewal" type="boolean"/>
-        <element choice="1" label="Category" max_length="40" name="category" reference="x_172976_term_shee_term_sheet_category" type="reference">
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" reference="x_172976_term_shee_term_sheet_category" type="reference">
             <choice/>
         </element>
         <element label="CA hyperlink" max_length="1024" name="ca_hyperlink" type="url"/>
@@ -26,17 +27,17 @@
         <element label="Existing PIF Initiative?" max_length="40" name="existing_pif_initiative" type="boolean"/>
         <element label="Extension Limit" max_length="40" name="extension_limit" type="boolean"/>
         <element label="Finance approval is required" max_length="40" name="finance_approval_required" type="boolean"/>
-        <element label="Finance approver" max_length="32" name="finance_approver" reference="sys_user" type="reference"/>
+        <element label="Finance approver" max_length="32" name="finance_approver" reference="x_172976_term_shee_m2m_procurement_procurement" reference_qual="procurement_role=124e4cffdb822300c2b9dde7489619f6^EQ" reference_qual_condition="procurement_role=124e4cffdb822300c2b9dde7489619f6^EQ" type="reference"/>
         <element default="0" label="Financial userType" max_length="40" name="financial_usertype" type="integer"/>
         <element label="Functional (Sponsor of Contract) approval is required" max_length="40" name="functional_approval_required" type="boolean"/>
-        <element label="Functional approver" max_length="32" name="functional_approver" reference="sys_user" type="reference"/>
+        <element label="Functional approver" max_length="32" name="functional_approver" reference="x_172976_term_shee_m2m_procurement_procurement" reference_qual="procurement_role=a35e4cffdb822300c2b9dde74896199b^EQ" reference_qual_condition="procurement_role=a35e4cffdb822300c2b9dde74896199b^EQ" type="reference"/>
         <element default="0" label="Functional userType" max_length="40" name="functional_usertype" type="integer"/>
         <element label="Funding SCOA" max_length="4000" name="funding_scoa" type="simple_name_values"/>
         <element label="Governing Law" max_length="40" name="governing_law" type="boolean"/>
         <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Initial Requestor" max_length="32" name="initial_requestor" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element label="IP" max_length="40" name="ip" type="boolean"/>
         <element label="Legal Representative is required" max_length="40" name="legal_approval_requried" type="boolean"/>
-        <element label="Legal approver" max_length="32" name="legal_approver" reference="sys_user" type="reference"/>
+        <element label="Legal approver" max_length="32" name="legal_approver" reference="x_172976_term_shee_m2m_procurement_procurement" reference_qual="procurement_role=2e6e80ffdb822300c2b9dde74896194e^EQ" reference_qual_condition="procurement_role=2e6e80ffdb822300c2b9dde74896194e^EQ" type="reference"/>
         <element default="0" label="Legal userType" max_length="40" name="legal_usertype" type="integer"/>
         <element label="LOL &amp; Indemnities" max_length="40" name="lol_indemnities" type="boolean"/>
         <element label="Material change risks and benefits" max_length="8000" name="material_change_risks_and_benefits" type="html"/>
@@ -55,10 +56,12 @@
             </choice>
         </element>
         <element label="PCI Compliance" max_length="40" name="pci_compliance" type="boolean"/>
-        <element dependent="procurement_usertypetest" dependent_on_field="procurement_usertypetest" label="Procurement approver" max_length="32" name="procurement_approver" reference="x_172976_term_shee_m2m_procurement_procurement" reference_qual="procurement_role=0b7ec0ffdb822300c2b9dde74896191c^procurement_user_type=95ae4033dbc22300c2b9dde748961963^EQ" reference_qual_condition="procurement_role=0b7ec0ffdb822300c2b9dde74896191c^procurement_user_type=95ae4033dbc22300c2b9dde748961963^EQ" type="reference" use_dependent_field="true"/>
+        <element dependent="procurement_usertypetest" dependent_on_field="procurement_usertypetest" label="Procurement approver" max_length="32" name="procurement_approver" reference="x_172976_term_shee_m2m_procurement_procurement" reference_qual="procurement_role=0b7ec0ffdb822300c2b9dde74896191c^EQ" reference_qual_condition="procurement_role=0b7ec0ffdb822300c2b9dde74896191c^EQ" type="reference" use_dependent_field="true"/>
+        <element label="Procurement rework" max_length="40" name="procurement_rework" type="boolean"/>
         <element default="0" label="Procurement userType" max_length="40" name="procurement_usertype" type="integer"/>
         <element default="95ae4033dbc22300c2b9dde748961963" label="Procurement userTypeTEST" max_length="32" name="procurement_usertypetest" type="document_id"/>
         <element label="Product and service description" max_length="8000" name="product_and_service_description" type="html"/>
+        <element label="Readonly contract amount" max_length="20" name="readonly_contract_amount" read_only="true" type="currency"/>
         <element label="Related parties relationship" max_length="40" name="related_parties_relationship" type="boolean"/>
         <element label="Renewal options and termination rights" max_length="8000" name="renewal_options_and_termination_rights" type="html"/>
         <element label="Replace existing contract" max_length="40" name="replace_existing_contract" type="boolean"/>
@@ -102,5 +105,6 @@
                 <element inactive_on_update="false" label="Contract type 3" value="type3"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="4000" name="u_journal_1" type="journal"/>
     </element>
 </database>

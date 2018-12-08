@@ -3,58 +3,69 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>854e5128db122300c2b9dde748961940</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde74896196d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <text/>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>894e5128db122300c2b9dde748961940</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>a6a4c774dbde2300c2b9dde74896196d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <text>TERM &amp; TERMINATION</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>8d4e5128db122300c2b9dde748961940</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>aaa4c774dbde2300c2b9dde74896196d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <text>Contract Amount Over Term:</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>814e5128db122300c2b9dde748961941</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde74896196d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
+            <text>Changes to contract amount require a -refresh- to calculate approvals</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde74896196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <text>Committed Spend:</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>854e5128db122300c2b9dde748961940</element>
+            <element>a2a4c774dbde2300c2b9dde74896196d</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde748961941</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>66a4c774dbde2300c2b9dde74896196e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -62,13 +73,13 @@
             <element>payment_terms</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c54e5128db122300c2b9dde748961941</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>e6a4c774dbde2300c2b9dde74896196e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -76,13 +87,13 @@
             <element>auto_renewal</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>494e5128db122300c2b9dde748961941</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>6aa4c774dbde2300c2b9dde74896196e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -90,13 +101,13 @@
             <element>extension_limit</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c94e5128db122300c2b9dde748961941</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde74896197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -104,27 +115,27 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>4d4e5128db122300c2b9dde748961941</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>26a4c774dbde2300c2b9dde74896197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>894e5128db122300c2b9dde748961940</element>
+            <element>a6a4c774dbde2300c2b9dde74896196d</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>cd4e5128db122300c2b9dde748961941</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a6a4c774dbde2300c2b9dde74896197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -132,13 +143,13 @@
             <element>contract_terms_in_months</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>414e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2aa4c774dbde2300c2b9dde74896197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -146,13 +157,13 @@
             <element>contract_effective_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c14e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aaa4c774dbde2300c2b9dde74896197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -160,13 +171,13 @@
             <element>contract_expiration_date</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2ea4c774dbde2300c2b9dde74896197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -174,13 +185,13 @@
             <element>.end_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c54e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde74896197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -188,13 +199,13 @@
             <element>renewal_options_and_termination_rights</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>494e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>22a4c774dbde2300c2b9dde74896197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -202,13 +213,13 @@
             <element>currency</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c94e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde74896197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -216,27 +227,27 @@
             <element>.begin_split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>4d4e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>26a4c774dbde2300c2b9dde74896197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>8d4e5128db122300c2b9dde748961940</element>
+            <element>aaa4c774dbde2300c2b9dde74896196d</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>cd4e5128db122300c2b9dde748961942</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a6a4c774dbde2300c2b9dde74896197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -244,13 +255,13 @@
             <element>contract_amount_over_term</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>414e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2aa4c774dbde2300c2b9dde74896197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -258,251 +269,265 @@
             <element>total_contract_amount</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c14e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aaa4c774dbde2300c2b9dde74896197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>aea4c774dbde2300c2b9dde74896196d</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2ea4c774dbde2300c2b9dde74896197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde74896197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>814e5128db122300c2b9dde748961941</element>
-            <position>17</position>
+            <element>a2a4c774dbde2300c2b9dde74896196e</element>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c54e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>22a4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>committed_spend</element>
-            <position>18</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>494e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_committed_spend</element>
-            <position>19</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c94e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>26a4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>20</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>4d4e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a6a4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description_of_spend_calculation</element>
-            <position>21</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>cd4e5128db122300c2b9dde748961943</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2aa4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>22</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>414e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aaa4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ca_number</element>
-            <position>23</position>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c14e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2ea4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>funding_scoa</element>
-            <position>24</position>
+            <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde74896197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>rogers_sub_company</element>
-            <position>25</position>
+            <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c54e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>22a4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sub_company_department</element>
-            <position>26</position>
+            <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>494e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>originators_name</element>
-            <position>27</position>
+            <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c94e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>26a4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>28</position>
+            <position>29</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>4d4e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>a6a4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ca_program</element>
-            <position>29</position>
+            <position>30</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>cd4e5128db122300c2b9dde748961944</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2aa4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ca_status</element>
-            <position>30</position>
+            <position>31</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>414e5128db122300c2b9dde748961945</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aaa4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ca_hyperlink</element>
-            <position>31</position>
+            <position>32</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c14e5128db122300c2b9dde748961945</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2ea4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>additional_funding_details</element>
-            <position>32</position>
+            <position>33</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde748961945</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde74896197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" display_value="FINANCIAL INFORMATION &amp; SPEND COMMITMENT" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3703e4c0dbd22300c2b9dde7489619c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

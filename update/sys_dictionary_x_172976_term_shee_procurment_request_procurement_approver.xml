@@ -44,9 +44,8 @@
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual>procurement_role=0b7ec0ffdb822300c2b9dde74896191c^procurement_user_type=95ae4033dbc22300c2b9dde748961963^EQ</reference_qual>
-        <reference_qual_condition table="x_172976_term_shee_m2m_procurement_procurement">procurement_role=0b7ec0ffdb822300c2b9dde74896191c^procurement_user_type=95ae4033dbc22300c2b9dde748961963^EQ<item display_table="x_172976_term_shee_procurement_role" display_value="Procurement" endquery="false" field="procurement_role" goto="false" newquery="false" operator="=" or="false" value="0b7ec0ffdb822300c2b9dde74896191c"/>
-            <item display_table="x_172976_term_shee_procurement_user_type" display_value="3" endquery="false" field="procurement_user_type" goto="false" newquery="false" operator="=" or="false" value="95ae4033dbc22300c2b9dde748961963"/>
+        <reference_qual>procurement_role=0b7ec0ffdb822300c2b9dde74896191c^EQ</reference_qual>
+        <reference_qual_condition table="x_172976_term_shee_m2m_procurement_procurement">procurement_role=0b7ec0ffdb822300c2b9dde74896191c^EQ<item display_table="x_172976_term_shee_procurement_role" display_value="Procurement" endquery="false" field="procurement_role" goto="false" newquery="false" operator="=" or="false" value="0b7ec0ffdb822300c2b9dde74896191c"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <reference_type/>
@@ -57,14 +56,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-07 11:05:13</sys_created_on>
         <sys_id>45ad99a4db122300c2b9dde748961952</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Procurement approver</sys_name>
         <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
         <sys_update_name>sys_dictionary_x_172976_term_shee_procurment_request_procurement_approver</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-07 13:56:05</sys_updated_on>
+        <sys_updated_on>2018-12-07 14:07:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

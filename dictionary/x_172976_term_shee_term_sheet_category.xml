@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Term sheet category" max_length="40" name="x_172976_term_shee_term_sheet_category" type="collection">
-        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Category" max_length="40" name="category" read_only="true" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element display="true" label="Value" max_length="40" name="value" type="string"/>
     </element>

@@ -3,11 +3,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>bc4e5128db122300c2b9dde748961912</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>eaa4c774dbde2300c2b9dde74896193f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <text>Please enter the title in the following format:  ROGERS PARTY/ENTITY NAME - TITLE OF AGREEMENT - DATE OF AGREEMENT</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -15,13 +15,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>b44e5128db122300c2b9dde748961913</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde74896193f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -29,13 +29,13 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>384e5128db122300c2b9dde748961913</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>22a4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -43,13 +43,13 @@
             <element>state</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>b84e5128db122300c2b9dde748961913</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -57,27 +57,27 @@
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>3c4e5128db122300c2b9dde748961913</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>26a4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>bc4e5128db122300c2b9dde748961912</element>
+            <element>eaa4c774dbde2300c2b9dde74896193f</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>bc4e5128db122300c2b9dde748961913</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>a6a4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -85,13 +85,13 @@
             <element>term_sheet_title</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>304e5128db122300c2b9dde748961914</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>2aa4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -99,13 +99,13 @@
             <element>.begin_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>b04e5128db122300c2b9dde748961914</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>aaa4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -113,13 +113,13 @@
             <element>initial_requestor</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>344e5128db122300c2b9dde748961914</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>2ea4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -127,13 +127,13 @@
             <element>request_date</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>b44e5128db122300c2b9dde748961914</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde748961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -141,13 +141,13 @@
             <element>initial_requestor.name</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>384e5128db122300c2b9dde748961914</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>22a4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -155,125 +155,97 @@
             <element>initial_requestor.email</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>b84e5128db122300c2b9dde748961914</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>a2a4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>initial_requestor.title</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>3c4e5128db122300c2b9dde748961914</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>12</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>bc4e5128db122300c2b9dde748961914</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>26a4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>initial_requestor.active</element>
-            <position>13</position>
+            <element>category</element>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>304e5128db122300c2b9dde748961915</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>a6a4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>category</element>
-            <position>14</position>
+            <element>initial_requestor.title</element>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>b04e5128db122300c2b9dde748961915</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>2aa4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>initial_requestor.phone</element>
-            <position>15</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>344e5128db122300c2b9dde748961915</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>aaa4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>initial_requestor.mobile_phone</element>
-            <position>16</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>b44e5128db122300c2b9dde748961915</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>2ea4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>contract_number</element>
-            <position>17</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:13</sys_created_on>
-            <sys_id>384e5128db122300c2b9dde748961915</sys_id>
+            <sys_created_on>2018-12-08 13:12:06</sys_created_on>
+            <sys_id>aea4c774dbde2300c2b9dde748961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>procurement_usertypetest</element>
-            <position>18</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 12:04:03</sys_created_on>
-            <sys_id>3f7ba160db522300c2b9dde7489619b7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="REQUESTOR INFORMATION" display_value="REQUESTOR INFORMATION" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">8ddbb7b7db422300c2b9dde748961938</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 12:04:03</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

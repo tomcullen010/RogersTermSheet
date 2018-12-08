@@ -35,6 +35,12 @@
 	
 	// use total contract amount to deturmine who needs to approve this contract
 	approvalLookup(current.total_contract_amount);
+
+	//term sheet > 10m requires ceo and cfo approval
+	if (current.total_contract_amount > 10000000) {
+		current.ceo_and_cfo_approval = true;
+	}
+	current.readonly_contract_amount = current.total_contract_amount;
 	
 	function approvalLookup(contractAmt) {
 		var queryString = "amount_low<=javascript:global.getCurrencyFilter('x_172976_term_shee_approvals_lookup','amount_low', 'USD;" + contractAmt +"')^amount_high>=javascript:global.getCurrencyFilter('x_172976_term_shee_approvals_lookup','amount_high', 'USD;" + contractAmt + "')";
@@ -42,11 +48,12 @@
 		gr.addEncodedQuery(queryString);
 		gr.query();
 		while (gr.next()) {
-			gs.info(gr.approval_level + ' ' + gr.amount_low + ' - ' + gr.amount_high);
+			//gs.info(gr.approval_level + ' ' + gr.amount_low + ' - ' + gr.amount_high);
 			current.functional_usertype = gr.functional_role_title;
 			current.procurement_usertype = gr.procurement_role_title;
 			current.financial_usertype = gr.finance_role_title;
 			current.legal_usertype = gr.legal_role_title;
+			current.approval_level = gr.approval_level;
 		}
 	}
 
@@ -61,7 +68,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c24dcd94dbde2300c2b9dde74896192c</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Set Required Approvals</sys_name>
         <sys_overrides/>
         <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
@@ -69,7 +76,7 @@
         <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
         <sys_update_name>sys_script_c24dcd94dbde2300c2b9dde74896192c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-06 22:50:31</sys_updated_on>
+        <sys_updated_on>2018-12-07 17:18:15</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

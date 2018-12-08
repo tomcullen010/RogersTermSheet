@@ -3,47 +3,47 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>094e5128db122300c2b9dde74896195b</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>26a4c774dbde2300c2b9dde748961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <text>MATERIAL CHANGE(S) TO TERMS</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>0d4e5128db122300c2b9dde74896195b</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2aa4c774dbde2300c2b9dde748961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <text>&lt;a href="https://legal-dictionary.thefreedictionary.com/Material+Changes"&gt;Click HERE  for Tips &amp; Hints selecting material changes&lt;/a&gt;</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>014e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>2ea4c774dbde2300c2b9dde748961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <text>RISKS &amp; BENEFITS ASSOCIATED WITH MATERIAL CHANGES</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>094e5128db122300c2b9dde74896195b</element>
+            <element>26a4c774dbde2300c2b9dde748961995</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c14e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>eea4c774dbde2300c2b9dde748961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -51,13 +51,13 @@
             <element>not_applicable</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>62a4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -65,13 +65,13 @@
             <element>ip</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c54e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>e2a4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -79,13 +79,13 @@
             <element>lol_indemnities</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>494e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>66a4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -93,13 +93,13 @@
             <element>acceptance</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c94e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>e6a4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -107,13 +107,13 @@
             <element>governing_law</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>4d4e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>6aa4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -121,13 +121,13 @@
             <element>term_termination</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>cd4e5128db122300c2b9dde74896195c</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>eaa4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -135,13 +135,13 @@
             <element>pci_compliance</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>414e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>6ea4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -149,13 +149,13 @@
             <element>other</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c14e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>eea4c774dbde2300c2b9dde748961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -163,27 +163,27 @@
             <element>.split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>62a4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>0d4e5128db122300c2b9dde74896195b</element>
+            <element>2aa4c774dbde2300c2b9dde748961995</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c54e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>e2a4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -191,13 +191,13 @@
             <element>exclusivity</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>494e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>66a4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -205,13 +205,13 @@
             <element>successors</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c94e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>e6a4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -219,13 +219,13 @@
             <element>payment_regime</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>4d4e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>6aa4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -233,13 +233,13 @@
             <element>representations_warranties</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>cd4e5128db122300c2b9dde74896195d</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>eaa4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -247,13 +247,13 @@
             <element>security_confidentiality</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>414e5128db122300c2b9dde74896195e</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>6ea4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -261,13 +261,13 @@
             <element>related_parties_relationship</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c14e5128db122300c2b9dde74896195e</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>eea4c774dbde2300c2b9dde748961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -275,27 +275,27 @@
             <element>.end_split</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>454e5128db122300c2b9dde74896195e</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>62a4c774dbde2300c2b9dde748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>014e5128db122300c2b9dde74896195c</element>
+            <element>2ea4c774dbde2300c2b9dde748961995</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>c54e5128db122300c2b9dde74896195e</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>e2a4c774dbde2300c2b9dde748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -303,13 +303,13 @@
             <element>material_change_risks_and_benefits</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-07 11:06:14</sys_created_on>
-            <sys_id>494e5128db122300c2b9dde74896195e</sys_id>
+            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
+            <sys_id>66a4c774dbde2300c2b9dde748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MATERIAL CHANGE(S) TO TERMS" display_value="MATERIAL CHANGE(S) TO TERMS" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">d4a4b400db162300c2b9dde7489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-07 11:06:14</sys_updated_on>
+            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
