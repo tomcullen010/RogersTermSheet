@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Procurment request" max_length="40" name="x_172976_term_shee_procurment_request" sizeclass="3" type="collection">
+    <element audit="true" extends="task" label="Procurment request" max_length="40" name="x_172976_term_shee_procurment_request" sizeclass="4" type="collection">
         <element label="Acceptance" max_length="40" name="acceptance" type="boolean"/>
         <element label="Additional funding details" max_length="1000" name="additional_funding_details" type="string"/>
         <element label="Amend existing Contract" max_length="40" name="amend_existing_contract" type="boolean"/>
         <element default="0" label="Approval level" max_length="40" name="approval_level" read_only="true" type="integer"/>
         <element label="Auto renewal" max_length="40" name="auto_renewal" type="boolean"/>
-        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" reference="x_172976_term_shee_term_sheet_category" type="reference">
+        <element choice="1" label="Catagory-prime" max_length="40" name="catagory_prime" type="choice">
             <choice/>
+        </element>
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" reference="x_172976_term_shee_term_sheet_category" type="reference" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element choice="1" label="category-prime" max_length="40" name="category_prime" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Media" value="media"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+            </choice>
         </element>
         <element label="CA hyperlink" max_length="1024" name="ca_hyperlink" type="url"/>
         <element label="CA number" max_length="40" name="ca_number" type="string"/>

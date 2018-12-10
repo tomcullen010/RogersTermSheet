@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category_prime" table="x_172976_term_shee_procurment_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category_prime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Media</label>
+            <language>en</language>
+            <name>x_172976_term_shee_procurment_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 14:47:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>359de529db122300c2b9dde74896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 14:47:19</sys_updated_on>
+            <value>media</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category_prime</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_172976_term_shee_procurment_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 14:47:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcbd6529db122300c2b9dde7489619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 14:47:35</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category_prime</element>
+            <name>x_172976_term_shee_procurment_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 14:47:19</sys_created_on>
+            <sys_id>05ad6529db122300c2b9dde7489619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category_prime</sys_name>
+            <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
+            <sys_update_name>sys_choice_x_172976_term_shee_procurment_request_category_prime</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 14:47:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

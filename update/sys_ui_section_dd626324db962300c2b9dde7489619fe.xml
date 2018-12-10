@@ -4,15 +4,29 @@
             <element>u_journal_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-08 13:12:08</sys_created_on>
-            <sys_id>32a4c774dbde2300c2b9dde7489619c9</sys_id>
+            <sys_created_on>2018-12-10 16:39:02</sys_created_on>
+            <sys_id>153702a9db522300c2b9dde748961983</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NOTES" display_value="NOTES" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">dd626324db962300c2b9dde7489619fe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-08 13:12:08</sys_updated_on>
+            <sys_updated_on>2018-12-10 16:39:02</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 16:39:02</sys_created_on>
+            <sys_id>953702a9db522300c2b9dde748961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NOTES" display_value="NOTES" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">dd626324db962300c2b9dde7489619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 16:39:02</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>NOTES</caption>

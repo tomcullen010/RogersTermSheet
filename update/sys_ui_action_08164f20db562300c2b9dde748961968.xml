@@ -5,7 +5,7 @@
         <client>false</client>
         <client_script_v2/>
         <comments/>
-        <condition/>
+        <condition>current.state==1</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -38,7 +38,7 @@ current.update();]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>08164f20db562300c2b9dde748961968</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Submit Term Sheet</sys_name>
         <sys_overrides/>
         <sys_package display_value="Term sheet" source="x_172976_term_shee">12ada3e7db422300c2b9dde7489619e5</sys_package>
@@ -46,7 +46,7 @@ current.update();]]></script>
         <sys_scope display_value="Term sheet">12ada3e7db422300c2b9dde7489619e5</sys_scope>
         <sys_update_name>sys_ui_action_08164f20db562300c2b9dde748961968</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-08 15:16:50</sys_updated_on>
+        <sys_updated_on>2018-12-09 20:54:46</sys_updated_on>
         <table>x_172976_term_shee_procurment_request</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

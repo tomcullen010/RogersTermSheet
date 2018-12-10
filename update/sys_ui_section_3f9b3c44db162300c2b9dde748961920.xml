@@ -3,26 +3,26 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
-            <sys_id>32a4c774dbde2300c2b9dde7489619a2</sys_id>
+            <sys_created_on>2018-12-10 16:39:01</sys_created_on>
+            <sys_id>0d3702a9db522300c2b9dde74896195e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
+            <sys_updated_on>2018-12-10 16:39:01</sys_updated_on>
             <text>Indicate if this purchase is part of an existing approved sourcing strategy (e.g. Competitive Bid, Best and Final Offer, etc) 
 If NO, please describe exceptions.  If YES, please describe the existing strategy.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>32a4c774dbde2300c2b9dde7489619a2</element>
+            <element>0d3702a9db522300c2b9dde74896195e</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
-            <sys_id>f2a4c774dbde2300c2b9dde7489619a2</sys_id>
+            <sys_created_on>2018-12-10 16:39:01</sys_created_on>
+            <sys_id>cd3702a9db522300c2b9dde74896195e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOURCING STRATEGY" display_value="SOURCING STRATEGY" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3f9b3c44db162300c2b9dde748961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
+            <sys_updated_on>2018-12-10 16:39:01</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -30,13 +30,13 @@ If NO, please describe exceptions.  If YES, please describe the existing strateg
             <element>sourcing_strategy</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
-            <sys_id>76a4c774dbde2300c2b9dde7489619a2</sys_id>
+            <sys_created_on>2018-12-10 16:39:01</sys_created_on>
+            <sys_id>413702a9db522300c2b9dde74896195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOURCING STRATEGY" display_value="SOURCING STRATEGY" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3f9b3c44db162300c2b9dde748961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
+            <sys_updated_on>2018-12-10 16:39:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -44,13 +44,13 @@ If NO, please describe exceptions.  If YES, please describe the existing strateg
             <element>source_strat_desc</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-08 13:12:07</sys_created_on>
-            <sys_id>f6a4c774dbde2300c2b9dde7489619a2</sys_id>
+            <sys_created_on>2018-12-10 16:39:01</sys_created_on>
+            <sys_id>c13702a9db522300c2b9dde74896195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="SOURCING STRATEGY" display_value="SOURCING STRATEGY" name="x_172976_term_shee_procurment_request" sys_domain="global" view="Default view">3f9b3c44db162300c2b9dde748961920</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-08 13:12:07</sys_updated_on>
+            <sys_updated_on>2018-12-10 16:39:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
